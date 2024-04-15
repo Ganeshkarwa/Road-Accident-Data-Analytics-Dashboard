@@ -27,6 +27,9 @@ The stakeholders dashboard caters to various stakeholders in the transportation 
 
 For each stakeholder, the dashboard provides relevant data and insights such as serious and slight casualties, monthly trend comparisons, and location-based data.
 
+link for the :
+https://drive.google.com/drive/folders/1HiMYuoZuLGGknrZYnlOI97vDhqEGBon1?usp=drive_link 
+
 ![image](https://github.com/Ganeshkarwa/Road-Accident-Data-Analytics-Dashboard/assets/140792447/f4ada334-bed1-42de-a567-04ea63347d48)
 
 ![image](https://github.com/Ganeshkarwa/Road-Accident-Data-Analytics-Dashboard/assets/140792447/79602871-9f4f-4456-a6c8-50625b495226)
